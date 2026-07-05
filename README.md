@@ -1,33 +1,39 @@
-<h1 align="center">Hi, I'm Saurabh Nishad</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | Building Scalable & High-Performance Web Applications</h3>
+# Hi, I'm Saurabh Nishad 
 
-<p align="center">
-  Passionate about transforming ideas into real-world products using modern web technologies.
+### Full Stack Developer | Building Scalable & High-Performance Web Applications
+
+<p>
+Passionate about transforming ideas into real-world products using modern web technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurabh-Nishad-WD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Saurabh-Nishad-WD?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Saurabh-Nishad-WD?label=Stars&style=flat&color=yellow" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Saurabh-Nishad-WD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Saurabh-Nishad-WD?label=Followers&style=flat&color=blue" />
+<img src="https://img.shields.io/github/stars/Saurabh-Nishad-WD?label=Stars&style=flat&color=yellow" />
+
+</div>
 
 ---
 
-## About Me
+# About Me
 
 - Full Stack Developer at **Soft7 Technology**
 - Founder of **Srinzo**
 - Currently learning **System Design, AWS & DevOps**
 - Passionate about building scalable products with clean architecture
-- Goal: Build products used by millions
-- Always learning something new
+- Goal: Build products that impact millions of users
+- I enjoy solving real-world problems through technology
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,express,postgres,mongodb,prisma,tailwind,html,css,git,github,docker,firebase,aws,linux,vscode" />
 
@@ -35,30 +41,35 @@
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Srinzo
-A modern accommodation booking platform for Hostels, PGs, Hotels & Rentals.
+## Srinzo
 
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • Google Maps API
-
----
+A modern accommodation booking platform for **Hostels, PGs, Hotels & Rentals** with Google Maps integration.
 
 **Tech Stack**
 
-Next.js • PostgreSQL • Prisma • TypeScript
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Google Maps API`
 
 ---
 
-### WhatsApp Dashboard
+## MyAreaShop
 
-Business dashboard powered by WhatsApp Business API for customer communication and management.
+A modern multi-vendor eCommerce platform connecting local shopkeepers with nearby customers.
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `PostgreSQL` • `Prisma`
 
 ---
 
-## GitHub Statistics
+## WhatsApp Dashboard
+
+Business dashboard powered by the WhatsApp Business API for customer communication and management.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -70,7 +81,7 @@ Business dashboard powered by WhatsApp Business API for customer communication a
 
 ---
 
-## GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -80,41 +91,55 @@ Business dashboard powered by WhatsApp Business API for customer communication a
 
 ---
 
-## GitHub Trophies
+# Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Nishad-WD&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Nishad-WD&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# GitHub Trophies
 
-<p align="left">
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Nishad-WD&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/saurabh-nishad-5ab072325/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://saurabhnishad.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="mailto:bharatnishad.840@gmail.com">
+&nbsp;&nbsp;
+
 <a href="mailto:saurabhnishad.7651@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### Thanks for visiting my profile ❤️
 
-If you like my work, consider giving a ⭐star to my repositories!
+ **If you like my work, consider giving a ⭐star to my repositories!**
 
-</p>
+Thanks for visiting my profile ❤️
+
+</div>
