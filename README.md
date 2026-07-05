@@ -64,15 +64,6 @@ Business dashboard powered by the WhatsApp Business API for customer communicati
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Nishad-WD&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Nishad-WD&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
@@ -89,14 +80,6 @@ Business dashboard powered by the WhatsApp Business API for customer communicati
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Nishad-WD&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Nishad-WD&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
