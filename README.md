@@ -52,6 +52,8 @@ A modern accommodation booking platform for **Hostels, PGs, Hotels & Rentals** w
 
 ---
 
+## Soft7 User WA_Dashboard (Contributed)
+
 **Tech Stack**
 
 `Next.js` • `TypeScript` • `PostgreSQL` • `Prisma`
