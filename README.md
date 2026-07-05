@@ -12,7 +12,6 @@ Passionate about transforming ideas into real-world products using modern web te
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Saurabh-Nishad-WD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Saurabh-Nishad-WD?label=Followers&style=flat&color=blue" />
 <img src="https://img.shields.io/github/stars/Saurabh-Nishad-WD?label=Stars&style=flat&color=yellow" />
 
