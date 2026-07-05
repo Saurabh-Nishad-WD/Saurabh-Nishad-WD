@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Full Stack Developer at **Soft7 Technology**
 - Founder of **Srinzo**
