@@ -21,13 +21,13 @@ Passionate about transforming ideas into real-world products using modern web te
 
 # About Me
 
-- Full Stack Developer at **Soft7 Technology**
-- Founder of **Srinzo**
-- Currently learning **System Design, AWS & DevOps**
-- Passionate about building scalable products with clean architecture
-- Goal: Build products that impact millions of users
-- I enjoy solving real-world problems through technology
-
+-Full Stack Developer at **Soft7 Technology**
+-Full Stack Developer at College Startup **Srinzo**
+-Passionate about building scalable, user-centric products with clean architecture
+-Experienced with **React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, Prisma, PostgreSQL, and MongoDB**
+-Proficient in **REST APIs, Authentication, Database Design, and Responsive UI Development**
+-Familiar with **Git, GitHub, AWS EC2, Vercel, Hostinger, and Render for deployment and version control**
+-Strong understanding of performance optimization, system design, clean code, and best development practices
 ---
 
 # Tech Stack
